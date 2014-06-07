@@ -1,0 +1,4 @@
+Using Sauerbraten December 2007 Code Base
+
+ http://sauerbraten.cvs.sourceforge.net/*checkout*/sauerbraten/sauerbraten/src/mingw/sauerbraten.cbp
+ put it in src/mingw/

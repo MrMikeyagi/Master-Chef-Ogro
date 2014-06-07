@@ -1,0 +1,7 @@
+The menus.cfg here is regularly maintained. as the non translated one always loads first, there's no need to touch the aliases, so I beg you to use this menus.cfg and not copy in the one from, /data.
+
+files /language will load
+
+data/lang/&&language/lang.cfg 
+data/lang/&&language/menus.cfg
+data/lang/&&language/game_&&gametype.cfg

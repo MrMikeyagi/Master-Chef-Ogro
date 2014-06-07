@@ -1,0 +1,50 @@
+Sandbox SSP module -- TODO
+==========================
+
+* reorganise sound lists for all game modules
+** sounds events when a coin is picked up, player gets a booboo, etc
+
+* monsters
+** waypoint navigation
+** attack animations
+** code to cause pain when colliding with the player... unless the player is above them.
+
+* pickups
+** spawn a dynent instead of using e.spawned for pickups, no collision
+** weapons
+** powerups
+*** invulnerability
+*** super speed
+** checkpoint
+*** add variable to end level and proceed to the next map
+** light up player character
+
+* weapons
+** code to handle weapon damage
+** projectiles
+*** define in script?
+*** melee
+*** rockets
+*** bombs/grenades
+**** timers
+**** gravity effects
+* affected by jumppads and teleports?
+
+* box
+** headbutt activates and drops a pickup, the box is optionally destroyed
+
+* HUD
+*** revamp ssptest map to use them in a tutorial
+** icons for equipped armour and weapon
+
+* armour
+** model tags, and models
+** desired effects, anti grav armour and electromagnetic (attracts pickups)
+** allow armours to have more than 1 setting defined, ie, both attract and flight
+
+* misc
+** if an item is picked up, make it fly into the player, faster the further away he is, over the course of about 500 ms
+
+* movement
+** slow down rotation, it's too snappy
+** automatic axis activation

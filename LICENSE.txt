@@ -1,0 +1,18 @@
+Platinum Arts Sandbox is a product of Platinum Arts LLC.
+Product Webpage:  http://SandboxGameMaker.com
+Platinum Arts LLC Homepage (adults only) - http://PlatinumArts.Net 
+E-mail:  PlatinumArts@gmail.com
+
+1.  This notice may not be removed or altered from any distribution.
+2.  The Cube 2 license located in /src must be read and abided by as well.  The Cube 2 license only pertains to the original Cube 2 source and not to any Platinum Arts LLC additions/modifications.
+3.  If you use Platinum Arts Sandbox to make a project please be sure to contact Platinum Arts LLC and provide information about the project.  Also be sure to clearly credit Platinum Arts Sandbox on your webpage, software and documentation. Your code must remain open to Platinum Arts LLC and available for use in Platinum Arts Sandbox to help further the project. 
+4.  With the exception of content with an individual readme file, any content submitted for inclusion in Platinum Arts Sandbox becomes property of Platinum Arts LLC.  Authors of the content will be credited and they can use their work in other projects.
+5.  With the exception of content with an individual readme file, all content is copyright Platinum Arts LLC and permission is required for distribution.  In other words if you want to use Platinum Arts Sandbox maps or other content in another software projects, please ask first.
+6.  This software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages or any other problems arising from the use of this software.
+7. NOTE TO EDUCATORS - If you use this software in an educational setting please send us an e-mail and tell us where and how it is being used.  Additonally we'd appreciate feedback on student reaction and how things work out.  It would be much appreciated if you posted your experiences here:
+http://forum.sandboxgamemaker.com/viewforum.php?f=17
+8.  Any questions or concerns about this license should be directed to PlatinumArts@gmail.com
+
+Thank you for your interest and I hope you enjoy using Platinum Arts Sandbox!
+- Platinum Arts LLC 
+Bringing Imagination To Life

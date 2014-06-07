@@ -1,0 +1,21 @@
+Done:
+Pickup up code for 2 Items (thanks for help Hirato :) )
+Added support to change player name ingame
+Added an Char selecting ingame
+Added icons on gui´s for ogre and the player
+Added background music
+Writen an better trader
+Writen an better inventory
+Class system (thanks for help Hirato :) )
+levelup code an very simple one
+Skill points distribution system (copyed from Hirato´s h-rpg code :) (modified by me))
+Added an very simple skill points system for levelup
+Added more pickup code for more items
+Wrote an first quest and simple quest system
+
+ToDo:
+Add icons in the inventory to the items
+
+ToDo always:
+Clean up the code
+

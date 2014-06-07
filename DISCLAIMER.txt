@@ -1,0 +1,7 @@
+Sandbox is based on a software engine that included weapons and monsters.  A lot of effort has gone into removing the ability for weapons and monsters to be used, though there is the unlikely chance that something was missed.  In addition, references to monsters and weapons may appear in the source code (the contents of the folder named /src).  Future releases will strive to remove even more of these references until they are removed completely.  When you use this software you agree to keep that in mind and will not hold Platinum Arts liable for any related incidents.  For any questions and comments please e-mail PlatinumArts@gmail.com
+
+Copyright (C) 2007 Platinum Arts LLC
+
+This software is provided 'as-is', without any express or implied
+warranty.  In no event will the authors be held liable for any damages
+arising from the use of this software.

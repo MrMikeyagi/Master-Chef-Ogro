@@ -1,0 +1,175 @@
+//Config file for, demomap by Nieb
+
+include itm_all
+include npc_all
+
+loadsky "morning"
+
+thirdperson 0
+
+fog 5000
+fogcolour 16777215
+//fogcolour 0x6d7e86
+
+waterfog 35
+watercolour 60 80 60
+
+mapmodelreset
+include mod_build
+include mod_containers
+include mod_food
+include mod_lights
+include mod_misc
+include mod_plants
+include mod_utensils
+include mod_war
+
+texturereset
+include tex_crates
+include tex_dirt
+include tex_grass
+include tex_metal
+include tex_misc_generic
+include tex_misc_specific
+include tex_snow
+include tex_wood
+
+// xtra_textures
+//-----------------------------------------------
+
+setshader bumpworld
+
+texture 0 "xtra_textures/ancient_flooring.jpg"
+texture 1 "xtra_textures/ancient_flooring_nm.jpg"
+
+texture 0 "xtra_textures/boards.jpg"
+texture 1 "xtra_textures/boards_nm.jpg"
+
+texture 0 "xtra_textures/cherrybark.jpg"
+texture 1 "xtra_textures/cherrybark_nm.jpg"
+
+texture 0 "xtra_textures/chimney.jpg"
+texture 1 "xtra_textures/chimney_nm.jpg"
+
+texture 0 "xtra_textures/cliffrock.jpg"
+texture 1 "xtra_textures/cliffrock_nm.jpg"
+
+texture 0 "xtra_textures/cliffrock2.jpg"
+texture 1 "xtra_textures/cliffrock2_nm.jpg"
+
+texture 0 "xtra_textures/dirt.jpg"
+texture 1 "xtra_textures/dirt_nm.jpg"
+
+texture 0 "xtra_textures/grass.jpg"
+texture 1 "xtra_textures/grass_nm.jpg"
+
+texture 0 "xtra_textures/grass1_cc.jpg"
+texture 1 "xtra_textures/grass1_nm.jpg"
+
+texture 0 "xtra_textures/grass1_hnarrowpath_cc.jpg"
+texture 1 "xtra_textures/grass1_hnarrowpath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_hwidepath_cc.jpg"
+texture 1 "xtra_textures/grass1_hwidepath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_turn1_narrowpath_cc.jpg"
+texture 1 "xtra_textures/grass1_turn1_narrowpath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_turn1_widepath_cc.jpg"
+texture 1 "xtra_textures/grass1_turn1_widepath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_turn2_narrowpath_cc.jpg"
+texture 1 "xtra_textures/grass1_turn2_narrowpath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_turn2_widepath_cc.jpg"
+texture 1 "xtra_textures/grass1_turn2_widepath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_turn3_narrowpath_cc.jpg"
+texture 1 "xtra_textures/grass1_turn3_narrowpath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_turn3_widepath_cc.jpg"
+texture 1 "xtra_textures/grass1_turn3_widepath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_turn4_narrowpath_cc.jpg"
+texture 1 "xtra_textures/grass1_turn4_narrowpath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_turn4_widepath_cc.jpg"
+texture 1 "xtra_textures/grass1_turn4_widepath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_w2npath1_cc.jpg"
+texture 1 "xtra_textures/grass1_w2npath1_nm.jpg"
+
+texture 0 "xtra_textures/grass1_w2npath2_cc.jpg"
+texture 1 "xtra_textures/grass1_w2npath2_nm.jpg"
+
+texture 0 "xtra_textures/grass1_w2npath3_cc.jpg"
+texture 1 "xtra_textures/grass1_w2npath3_nm.jpg"
+
+texture 0 "xtra_textures/grass1_w2npath4_cc.jpg"
+texture 1 "xtra_textures/grass1_w2npath4_nm.jpg"
+
+texture 0 "xtra_textures/grass1_vnarrowpath_cc.jpg"
+texture 1 "xtra_textures/grass1_vnarrowpath_nm.jpg"
+
+texture 0 "xtra_textures/grass1_vwidepath_cc.jpg"
+texture 1 "xtra_textures/grass1_vwidepath_nm.jpg"
+
+texture 0 "xtra_textures/grass2.jpg"
+texture 1 "xtra_textures/grass2_nm.jpg"
+
+texture 0 "xtra_textures/grassdry.jpg"
+texture 1 "xtra_textures/grassdry_nm.jpg"
+
+texture 0 "xtra_textures/grasspurpleflowers.jpg"
+texture 1 "xtra_textures/grasspurpleflowers_nm.jpg"
+
+texture 0 "xtra_textures/grasssparse.jpg"
+texture 1 "xtra_textures/grasssparse_nm.jpg"
+
+texture 0 "xtra_textures/gravel.jpg"
+texture 1 "xtra_textures/gravel_nm.jpg"
+
+texture 0 "xtra_textures/groundcover.jpg"
+texture 1 "xtra_textures/groundcover_nm.jpg"
+
+texture 0 "xtra_textures/hay.jpg"
+texture 1 "xtra_textures/hay_nm.jpg"
+
+texture 0 "xtra_textures/leafyground.jpg"
+texture 1 "xtra_textures/leafyground_nm.jpg"
+
+texture 0 "xtra_textures/mud.jpg"
+texture 1 "xtra_textures/mud_nm.jpg"
+
+texture 0 "xtra_textures/oakbark.jpg"
+texture 1 "xtra_textures/oakbark_nm.jpg"
+
+texture 0 "xtra_textures/packeddirt.jpg"
+texture 1 "xtra_textures/packeddirt_nm.jpg"
+
+texture 0 "xtra_textures/pinebarkyoung.jpg"
+texture 1 "xtra_textures/pinebarkyoung_nm.jpg"
+
+texture 0 "xtra_textures/pineneedles.jpg"
+texture 1 "xtra_textures/pineneedles_nm.jpg"
+
+texture 0 "xtra_textures/roof1.jpg"
+texture 1 "xtra_textures/roof1_nm.jpg"
+
+texture 0 "xtra_textures/siding1.jpg"
+texture 1 "xtra_textures/siding1_nm.jpg"
+
+texture 0 "xtra_textures/siding2.jpg"
+texture 1 "xtra_textures/siding2_nm.jpg"
+
+texture 0 "xtra_textures/stone1.jpg"
+texture 1 "xtra_textures/stone1_nm.jpg"
+
+//--------------------------------------
+
+setshader stdworld
+
+ // mapsound "ambient/waterfall" 255
+ // mapsound "ambient/watermove" 255
+
+

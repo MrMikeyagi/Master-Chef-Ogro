@@ -1,0 +1,7 @@
+struct sspmonster
+{
+	sspclient &cl;
+	vector<extentity *> &ents;
+	
+	sspmonster(sspclient &_cl) : cl(_cl), ents(_cl.et.ents) {}
+};

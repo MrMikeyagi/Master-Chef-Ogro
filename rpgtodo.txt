@@ -1,0 +1,105 @@
+Master Chef Ogro To Do List
+
+-Adjust movespeed and jump velocity for all levels
+-chef model for character
+-swimming animation
+-log and rock model
+-WORK ON MAKING LEVELS LESS LINEAR AND HAVE MORE QUESTS/OPTIONAL CONTENT
+-add more plot elements/backstory ie txt logs, documents, optional people to talk to
+-carry over money system and items
+-merchant with substantial goods ie more powerfull spells, quest items. etc
+-add more monsters to levels
+-better enemy ai. eg not just rush you. Have tactics
+-add more puzzles/ monsters
+-fix mega fruit
+-pushing boxes code?
+-platforms and elevators working?
+-more skins for ogre
+-more models(free from copyright)
+-better interface
+-mini map?
+-get door texture working on model
+
+Mountain
+-add signs to buildings
+-more dialogue and plot elements
+-make guard at begining say what happened to path and marty confirm
+-make buildings look like their suppose to and distinguished from the outside
+-add pickup items to chefs room
+-add king
+-add merchant quest
+-add lost boy quest
+-get door to open when you finish final quest
+
+Newforest1
+Adjust level to movespeed
+-fix sword
+-move apples
+-fix fps
+-reward for quests
+-fix floating pillars in lava part
+-add more checkpoints in lava
+-beginning of level
+
+Dark forest
+- less linear
+-more monsters/ more challenge
+-too monotnous
+-quest?
+-puzzles?
+
+Glitchworlds
+-make easier on river
+-running water effect
+fix npc
+fix final battle and ending
+
+
+-add last level
+
+
+
+
+
+
+
+
+
+
+Things to finish buckling down on for release!
+
+-better HUD display for health/mana.
+-spells finalized - spells are way too small in particle radius, note 9 would be awesome if it was at 90 degrees
+-all maps finished rpg_01 -> cave -> forest -> dungeon2 -> glitchworld-> glitchworld2  (please update if any new maps should be in there, according to progression)
+-map order sorted. (Well if tom makes a map it will be inbetween forest and dungeon2)
+
+Low Priority
+-a melee weapon (vegetablize sword mapmodel)
+-finish master chef ogro's character model (chef clothing put on him)
+-completed king skin
+-old test map integrated
+-better looking health bar for enemies.
+
+Features to add
+- Checkpoints (assigned to Hirato)
+- vegetable monsters revert back to a vegetable (loot) (assigned to Mike)
+-another vegetable monster besides a cabbage. (Only thing people would probably complain about in the finished version)
+
+Bugs to fix:
+- newline for quests/text/dialog not working (assigned to Linuxdonald)
+- playerstarts default team red (temp fix newent playerstart neutral)
+-enemies sometimes don't hurt you when they touch you. and you can kill them without out them hurting you.
+
+Feature Wishlist:
+- Save files
+- Scoring system?  (coins/score per level)
+- Cabbage Golem Boss Being able to attack "quin because melee attacks are basically a shortened ray. maybe a radial with a yaw offset checkor make it actually aim down at you and increase the shorten distance depending on the height"
+- icons replaced before any release
+- flowers?
+- translucient menu
+
+
+
+Edit:
+thanks mike, thats a much better sorted version of what I put.
+and BTW, couldn't we just vegetablize the long sword mapmodel already in sandbox for the melee weapon? And if I make some blender models, could you please convert them to md3 for me or something, I've tried all the tutorials and just can't seem to get it.
